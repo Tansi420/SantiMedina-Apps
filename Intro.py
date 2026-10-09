@@ -164,7 +164,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 🎯 Recursos y Enlaces")
     url_ia = "https://sites.google.com/view/aplicacionesdeia/inicio"
-    st.write(f"Explora documentación complementaria, guías conceptuales y ejercicios prácticos en el [Sitio Oficial de Prácticas]({url_ia}).")
+    st.write(f"Contenidos y herramientas generados gracias a la orientación del profe. [Sitio Oficial del Profe]({url_ia}).")
     st.markdown("---")
     st.caption("© 2026 • Diseñado y programado por Santiago Medina.")
 
