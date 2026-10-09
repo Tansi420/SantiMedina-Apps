@@ -237,7 +237,7 @@ herramientas = [
     },
     {
         "titulo": "Aplicación Intro",
-        "desc": "Mi primera app, donde comenzó todo.",
+        "desc": "Mi primera app, donde comenzó todo...",
         "img": "txt_to_audio2.png",
         "url": "https://imultimod.streamlit.app/",
         "col": col1
