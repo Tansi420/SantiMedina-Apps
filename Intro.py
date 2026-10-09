@@ -175,70 +175,70 @@ herramientas = [
     {
         "titulo": "Creador de Ondas Binaurales",
         "desc": "Generación de frecuencias sonoras y audio inmersivo enfocado en la estimulación creativa y la concentración profunda.",
-        "img": "txt_to_audio2.png",
+        "img": "1.jpg",
         "url": "https://imultimod.streamlit.app/",
         "col": col1
     },
     {
         "titulo": "Traductor de Emergencias para Turistas",
         "desc": "Sistema ágil de traducción asistida por IA diseñado para solventar barreras lingüísticas críticas en entornos dinámicos.",
-        "img": "OIG8.jpg",
+        "img": "2.jpg",
         "url": "https://traductorw.streamlit.app/",
         "col": col2
     },
     {
         "titulo": "Lector de Etiquetas de Supermercado",
         "desc": "Aplicación basada en OCR para extraer, interpretar y evaluar componentes, textos e información nutricional de productos.",
-        "img": "Chat_pdf.png",
+        "img": "3.jpeg",
         "url": "https://chatpdf-cc.streamlit.app/",
         "col": col3
     },
     {
         "titulo": "Radar de Reseñas",
         "desc": "Clasificación inteligente y análisis automatizado de opiniones públicas para la extracción de métricas de satisfacción.",
-        "img": "txt_to_audio.png",
+        "img": "4.jpeg",
         "url": "https://yolov5cmc.streamlit.app/",
         "col": col1
     },
     {
         "titulo": "Análisis Emocional de Textos",
         "desc": "Procesamiento de Lenguaje Natural (PLN) para detectar matices psicológicos, tonos y sentimientos profundos en escritos.",
-        "img": "data_analisis.png",
+        "img": "5.jpeg",
         "url": "https://dataagente.streamlit.app/",
         "col": col2
     },
     {
         "titulo": "Inventario de Mudanzas",
         "desc": "Organización y catalogación inteligente de objetos mediante visión computacional y conteo automatizado por IA.",
-        "img": "OIG4.jpg",
+        "img": "6.jpeg",
         "url": "https://vision2-gpt4o.streamlit.app/",
         "col": col3
     },
     {
         "titulo": "TF-IDF",
         "desc": "Algoritmo estadístico avanzado para evaluar el peso, la importancia y la relevancia de términos dentro de un corpus documental.",
-        "img": "OIG5.jpg",
+        "img": "7.jpg",
         "url": "https://xn3pg24ztuv6fdiqon8qn3.streamlit.app/",
         "col": col1
     },
     {
         "titulo": "Analizador de PDFs Lexiscan",
         "desc": "Extracción inteligente de conocimiento y consultas conversacionales directas orientadas a documentos legales y extensos.",
-        "img": "OIG3.jpg",
+        "img": "8.jpeg",
         "url": "https://transcript-whisper.streamlit.app/",
         "col": col2
     },
     {
         "titulo": "Crítico de Arte por Imágenes",
         "desc": "Evaluación estética, compositiva y conceptual de piezas gráficas mediante modelos visuales de alta precisión.",
-        "img": "OIG6.jpg",
+        "img": "9.jpeg",
         "url": "https://vision2-gpt4o.streamlit.app/",
         "col": col3
     },
     {
         "titulo": "Aplicación Intro",
         "desc": "Mi primera app, donde comenzó todo...",
-        "img": "txt_to_audio2.png",
+        "img": "10.jpeg",
         "url": "https://imultimod.streamlit.app/",
         "col": col1
     }
