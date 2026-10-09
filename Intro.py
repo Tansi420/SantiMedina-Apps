@@ -237,7 +237,7 @@ herramientas = [
     },
     {
         "titulo": "Aplicación Intro",
-        "desc": "Módulo introductorio de visión general sobre el ecosistema de experiencias y herramientas interactivas desarrolladas.",
+        "desc": "Mi primera app, donde comenzó todo.",
         "img": "txt_to_audio2.png",
         "url": "https://imultimod.streamlit.app/",
         "col": col1
