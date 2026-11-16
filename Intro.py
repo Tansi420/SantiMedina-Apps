@@ -168,7 +168,7 @@ with st.sidebar:
     st.markdown("---")
     st.caption("© 2026 • Diseñado y programado por Santiago Medina.")
 
-# --- DISTRIBUCIÓN DE LAS 10 HERRAMIENTAS EN 3 COLUMNAS ---
+# --- DISTRIBUCIÓN DE LAS 19 HERRAMIENTAS EN 3 COLUMNAS ---
 col1, col2, col3 = st.columns(3)
 
 herramientas = [
@@ -240,6 +240,69 @@ herramientas = [
         "desc": "Mi primera app, donde comenzó todo...",
         "img": "10.jpeg",
         "url": "https://imultimod.streamlit.app/",
+        "col": col1
+    },
+    {
+        "titulo": "Lector de Sensor MQTT",
+        "desc": "Visualiza y monitorea en tiempo real los datos provenientes de sensores conectados a través del protocolo MQTT, ideal para proyectos de IoT e instalaciones interactivas.",
+        "img": "11.jpeg",
+        "url": "https://recepmqtt-hcxbmvryempp4dfeik8mht.streamlit.app",
+        "col": col2
+    },
+    {
+        "titulo": "Interfaces Control por Voz",
+        "desc": "Controla aplicaciones utilizando comandos de voz. Este sistema multimodal permite interactuar con plataformas sin necesidad de contacto físico (hands-free).",
+        "img": "12.jpeg",
+        "url": "https://ctrlvoice-ghqlc7cjicvoxnltwecxlx.streamlit.app",
+        "col": col3
+    },
+    {
+        "titulo": "MQTT Control",
+        "desc": "Panel interactivo para el envío de comandos y control de hardware a distancia utilizando la mensajería ligera del protocolo MQTT.",
+        "img": "13.jpeg",
+        "url": "https://sendcmqtt-fgebaqgmgss8nfwcmpmbzp.streamlit.app",
+        "col": col1
+    },
+    {
+        "titulo": "Análisis de Imagen",
+        "desc": "Sube tus imágenes y permite que los algoritmos de visión extraigan datos, identifiquen patrones visuales y generen conclusiones descriptivas del contenido.",
+        "img": "14.jpeg",
+        "url": "https://visionapp-n9t4tuy5ji64mjfqnfzcnm.streamlit.app",
+        "col": col2
+    },
+    {
+        "titulo": "Descubre el Arte del Buen Comer",
+        "desc": "Asistente culinario basado en IA que analiza documentos (ChatPDF) para extraer recetas, técnicas y conocimientos de la tradición gastronómica.",
+        "img": "15.jpeg",
+        "url": "https://chatpdf-tpyrd2q5na79ehnvrczjfl.streamlit.app",
+        "col": col3
+    },
+    {
+        "titulo": "Tablero para Dibujo",
+        "desc": "Lienzo digital interactivo donde puedes realizar trazos libres, ideal como módulo de entrada para posteriores modelos de reconocimiento visual.",
+        "img": "16.jpeg",
+        "url": "https://tableropropio-8h7spabo2dpnc7pkmzrf32.streamlit.app",
+        "col": col1
+    },
+    {
+        "titulo": "Tablero Inteligente",
+        "desc": "Lienzo de dibujo potenciado con IA, capaz de capturar tus trazos en tiempo real para que los modelos de machine learning interpreten tus bocetos.",
+        "img": "17.jpeg",
+        "url": "https://drawrecog-8dmelrpjrnneydubuhsqih.streamlit.app",
+        "col": col2
+    },
+    {
+        "titulo": "Detección de Dígitos a Mano",
+        "desc": "Dibuja un número y deja que la red neuronal lo clasifique. Utiliza el clásico dataset MNIST para demostrar la precisión de la detección en tiempo real.",
+        "img": "18.jpeg",
+        "url": "https://mnistpred-93wuranhxyualbnjkppjdr.streamlit.app",
+        "col": col3
+    },
+    {
+        "titulo": "Cuentos Mágicos: Dibuja tu Historia",
+        "desc": "Transforma tus bocetos en narrativas. La inteligencia artificial interpreta lo que dibujas para generar un cuento infantil original y creativo.",
+        "img": "19.jpeg",
+        "url": "https://drawrecog-5efmiswovqrw78sawxtkpp.streamlit.app",
         "col": col1
     }
 ]
